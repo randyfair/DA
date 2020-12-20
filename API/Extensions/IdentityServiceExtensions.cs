@@ -21,7 +21,7 @@ namespace API.Extensions
                         ValidateAudience = false
                     };
                 });
-                return services;
+                return services;    
         }
     }
 }
